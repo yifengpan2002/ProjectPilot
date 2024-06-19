@@ -1,0 +1,15 @@
+export { default as Home } from "./Home";
+export { default as Projects } from "./Projects";
+export { default as Login } from "./Login";
+export { default as Register } from "./Register";
+export { default as About } from "./About";
+export { default as ProjectPage } from "./ProjectPage";
+export { default as MatchForm } from "./MatchForm";
+export { default as ProjectPreference } from "./ProjectPreference";
+export { default as Client } from "./Client";
+export { default as ProjectForm } from "./ProjectForm";
+export { default as TeachingTeam } from "./TeachingTeam";
+export { default as TeachingSetUp } from "./TeachingSetUp";
+export { default as Student } from "./StudentAccount";
+export { default as ResetPassword } from "./ResetPassword";
+export { default as Error } from "./error";

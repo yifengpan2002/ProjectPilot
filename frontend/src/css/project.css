@@ -1,0 +1,49 @@
+ body {
+     overflow: hidden;
+ }
+
+
+ .searchButton:hover {
+     background-color: black;
+ }
+
+ .project-page-title {
+     position: relative;
+ }
+
+ .toggle {
+     display: block;
+     width: 70px;
+     height: 25px;
+     font-size: 16px;
+     padding: 5px;
+     position: absolute;
+     right: 30px;
+     top: 45px;
+     color: grey;
+     text-align: center;
+ }
+
+ .toggle:hover {
+     /* background-color: #9c27b0; */
+     color: #9c27b0;
+ }
+
+ /* .project-page-title::after {
+     content: "Toggle";
+     display: block;
+     position: absolute;
+     font-size: 16px;
+     right: 10px;
+     top: 45px;
+     color: grey;
+     width: 70px;
+     height: 25px;
+     background-color: black;
+     padding: 5px;
+     text-align: center;
+ }
+
+ .MuiGrid-grid-xs-8 .project-page-title::after:hover {
+     color: #9c27b0
+ } */
